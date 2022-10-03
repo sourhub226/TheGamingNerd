@@ -33,7 +33,7 @@ Backend:
 - [x] login and signup
 - [x] ratings and comments
 - [ ] admin console
-- [ ] user profile page
+- [x] user profile page
 - [ ] add all game data
 - [x] add news/articles
 - [ ] add giveaways section
